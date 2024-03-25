@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.notification.man.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.notification.man.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/manavghetiya/.gradle/daemon/7.4/com.notification.man.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/Users/manavghetiya/.gradle/daemon/7.4/com.notification.man.app-main-30:/layout/activity_main.xml"
+    }
+]
